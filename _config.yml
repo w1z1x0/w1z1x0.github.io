@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "NG Tsz Yam"
-description              : "Undergraduate student at Peking University, interested in NLP, LLMs, and reinforcement learning."
+description              : "Undergraduate student majoring in computer science, interested in NLP, LLMs, and reinforcement learning."
 repository               : "w1z1x0/w1z1x0.github.io"
 # google_scholar_stats_use_cdn : True
 
@@ -23,7 +23,7 @@ repository               : "w1z1x0/w1z1x0.github.io"
 author:
   name             : "NG Tsz Yam（吳梓鑫）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Electronics Engineering and Computer Science, " "Peking University"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
