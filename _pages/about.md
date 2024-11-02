@@ -17,30 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior at the School of Electronics Engineering and Computer Science, **Peking University（北京大学信息科学技术学院）**.
+I am a senior at the School of Electronics Engineering and Computer Science, Peking University（北京大学信息科学技术学院）.
 
 My research interest includes **Natural Language Processing, Large Language Models, and Reinforcement Learning**. I have project experience in prompt engineering, fine-tuning, SFT, inference, and dataset generation for LLMs. 
 
-I'm currently doing a research internship in Professor [Wan Xiaojun（万小军）](https://wanxiaojun.github.io/)'s lab at Peking University, working on a project involving automated idea generation, experimentation, paper writing, review for AI scientists.
+I'm currently doing a research internship in Professor [Wan Xiaojun（万小军）](https://wanxiaojun.github.io/)'s lab at Peking University, working on a project involving automated idea generation, experimentation, paper writing, review for **AI Scientists**.
 
 My major is computer science, and I have taken courses such as Introduction to Computer Systems, Algorithm Design and Analysis, Data Structures and Algorithms, Introduction to Artificial Intelligence, Statistical Analysis and Business Intelligence, Operating Systems, Databases, Reinforcement Learning, Probability and Statistics, Data Visualization, Intelligent robotics, and Fundamentals of Large Language Models.
 
 
 # 📝 Projects & Experience
 
-- *2024.08 - (now)* **Research Internship in Professor Wan Xiaojun's Laboratory**
+- ***2024.08  -  (now)*** **Research Internship in Professor Wan Xiaojun's Laboratory**
   - AI scientists (involving automated idea generation, experimentation, paper writing, and review)
-- *2024.07 - 2024.08* **Training Coding Assistant in Moonton**
+- ***2024.07 - 2024.08*** **Training Coding Assistant in Moonton**
   - Generated Alpaca datasets using product code and documentation
   - Fine-tune and conduct SFT training on open-source models Qwen 2 and LLaMA 3.1, resulting in a language model capable of answering company-related coding questions.
-- *2023.09 - 2024.02* **MIT	6.S081:	Operating	System Engineering Labs**
+- ***2023.09 - 2024.02*** **MIT	6.S081:	Operating	System Engineering Labs**
   - Involves multiple topics such as concurrency locks, system calls, file systems, virtual memory, and page tables.
-- *2022.09 - 2023.01* **CMU	15-213:	CSAPP	Labs**
+- ***2022.09 - 2023.01*** **CMU	15-213:	CSAPP	Labs**
   - Covers aspects such as assembly, stack safety, networking, memory allocation, caching, and concurrency. 
-- *2022.06 - 2022.07* **Water Pipe Game Project**
+- ***2022.06 - 2022.07*** **Water Pipe Game Project**
   - Develop a pipe connection game using object-oriented design and the Qt framework, with over 3000 lines of code.
   - The project includes the game interface, levels, various functional pipes and icons, and allows players to create their own levels.
-- *2022.05 - 2022.06* **Language Generator capable of mimicking internet celebrity**
+- ***2022.05 - 2022.06*** **Language Generator capable of mimicking internet celebrity**
   - Using the PyTorch and Transformers libraries with the GPT-2 model
   - Adjusting weights and learning rates on text data collected from social platforms.
   - Updating weights through backpropagation
