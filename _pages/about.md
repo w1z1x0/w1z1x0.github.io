@@ -26,7 +26,7 @@ I'm currently doing a research internship in Professor [Wan Xiaojun（万小军�
 My major is computer science, and I have taken courses such as Introduction to Computer Systems, Algorithm Design and Analysis, Data Structures and Algorithms, Introduction to Artificial Intelligence, Statistical Analysis and Business Intelligence, Operating Systems, Databases, Reinforcement Learning, Probability and Statistics, Data Visualization, Intelligent robotics, and Fundamentals of Large Language Models.
 
 
-# 📝 Projects & Experience
+# 📝 Projects and Experience
 
 - ***2024.08  -  (now)*** **Research Internship in Professor Wan Xiaojun's Laboratory**
   - AI scientists (involving automated idea generation, experimentation, paper writing, and review)
@@ -45,12 +45,12 @@ My major is computer science, and I have taken courses such as Introduction to C
   - Adjusting weights and learning rates on text data collected from social platforms.
   - Updating weights through backpropagation
 
-# 💻 Internships & Society
+# 💻 Internships and Society
 - *2024.07 - 2024.08*, [Moonton](https://cn.moonton.com/), Shanghai.
 - *2022.03 - 2023.02*, Peking University Hong Kong Cultural Association
 - *2021.07 - 2021.08*, [Hong Kong Youth & Tertiary Students Association](https://www.hkytsa.org/), HongKong
 
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 - *2021 - 2024* Swire China Scholarships for four years. 
 - *2021* Sir Edward Youde	Memorial Prize. 
 
