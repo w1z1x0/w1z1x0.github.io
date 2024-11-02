@@ -17,42 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a senior at the School of Electronics Engineering and Computer Science, Peking University（北京大学信息科学技术学院）.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Natural Language Processing, Large Language Models, and Reinforcement Learning. I have project experience in prompt engineering, fine-tuning, SFT, inference, and dataset generation for LLMs. 
+
+I'm currently doing a research internship in Professor [Wan Xiaojun（万小军）](https://wanxiaojun.github.io/)'s lab at Peking University, working on a project involving automated idea generation, experimentation, paper writing, review for AI scientists.
+
+My major is computer science, and I have taken courses such as Introduction to Computer Systems, Algorithm Design and Analysis, Data Structures and Algorithms, Introduction to Artificial Intelligence, Statistical Analysis and Business Intelligence, Operating Systems, Databases, Reinforcement Learning, Probability and Statistics, Data Visualization, Intelligent robotics, and Fundamentals of Large Language Models.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Projects & Experience
 
-# 📝 Publications 
+- *2024.08 - (now)* Research Internship in Professor Wan Xiaojun's Laboratory
+  - AI scientists (involving automated idea generation, experimentation, paper writing, and review)
+- *2024.07 - 2024.08* Training Coding Assistant in Moonton
+  - Generated Alpaca datasets using product code and documentation
+  - Fine-tune and conduct SFT training on open-source models Qwen 2 and LLaMA 3.1, resulting in a language model capable of answering company-related coding questions.
+- *2023.09 - 2024.02* MIT	6.S081:	Operating	System Engineering Labs
+  - Involves multiple topics such as concurrency locks, system calls, file systems, virtual memory, and page tables.
+- *2022.09 - 2023.01* CMU	15-213:	CSAPP	Labs
+  - Covers aspects such as assembly, stack safety, networking, memory allocation, caching, and concurrency. 
+- *2022.06 - 2022.07* Water Pipe Game Project
+  - Develop a pipe connection game using object-oriented design and the Qt framework, with over 3000 lines of code.
+  - The project includes the game interface, levels, various functional pipes and icons, and allows players to create their own levels.
+- *2022.05 - 2022.06* Language Generator capable of mimicking internet celebrity.
+  - Using the PyTorch and Transformers libraries with the GPT-2 model
+  - Adjusting weights and learning rates on text data collected from social platforms.
+  - Updating weights through backpropagation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 💻 Internships & Society
+- *2024.07 - 2024.08*, [Moonton](https://cn.moonton.com/), Shanghai.
+- *2022.03 - 2023.02*, Peking University Hong Kong Cultural Association
+- *2021.07 - 2021.08*, [Hong Kong Youth & Tertiary Students Association](https://www.hkytsa.org/), HongKong
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors & Awards
+- *2021 - 2024* Swire China Scholarships for four years. 
+- *2021* Sir Edward Youde	Memorial Prize. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - now*, Undergraduate, School of Electronics Engineering and Computer Science, Peking University, Beijing.
+- *2016.09 - 2021.06*, Pui Kiu Middle School, HongKong.
