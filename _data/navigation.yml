@@ -3,14 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Projects & Experience"
-    url: "/#-projects-&-experience"
+  - title: "Projects and Experience"
+    url: "/#-projects-and-experience"
     
-  - title: "Internships & Society"
-    url: "/#-internships-&-society"
+  - title: "Internships and Society"
+    url: "/#-internships-and-society"
     
-  - title: "Honors & Awards"
-    url: "/#-honors-&-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
