@@ -30,11 +30,15 @@ My major is computer science, and I have taken courses such as Introduction to C
 
 - ***2024.08  -  (now)*** **Research Internship in Professor Wan Xiaojun's Laboratory**
   - AI scientists (involving automated idea generation, experimentation, paper writing, and review)
+  - Autonomous Experiment of Multi-agent LLM based on MCTS
+- ***2024.09  -  2025.02*** **Course Experiment: Large Language Model Principles, Challenges and Industry Applications**
+  - Include implementing the decoder-only transformer model, disaggregating the prefill and decoding phases of LLM inference, implementing the mixture of experts (MOE) architecture.
+- ***2024.09  -  2025.02*** **Course Experiment: Reinforcement Learning**
+  - Based on the Tencent Kaiwu platform, completed the "Return to the Secret Realm" experimental, through the Target-DQN algorithm and reward function tuning.
+  - Utilized the PPO algorithm combined with the ResNet network to implement an AI agent for playing Mahjong on the Peking University Botzone platform.
 - ***2024.07 - 2024.08*** **Training Coding Assistant in Moonton**
   - Generated Alpaca datasets using product code and documentation
-  - Fine-tune and conduct SFT training on open-source models Qwen 2 and LLaMA 3.1, resulting in a language model capable of answering company-related coding questions.
-- ***2023.09 - 2024.02*** **MIT	6.S081:	Operating	System Engineering Labs**
-  - Involves multiple topics such as concurrency locks, system calls, file systems, virtual memory, and page tables.
+  - Conduct SFT training and RAG on open-source models Qwen 2 and LLaMA 3.1, resulting in a language model capable of answering company-related coding questions.
 - ***2022.09 - 2023.01*** **CMU	15-213:	CSAPP	Labs**
   - Covers aspects such as assembly, stack safety, networking, memory allocation, caching, and concurrency. 
 - ***2022.06 - 2022.07*** **Water Pipe Game Project**
